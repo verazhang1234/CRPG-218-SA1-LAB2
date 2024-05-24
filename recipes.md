@@ -113,3 +113,20 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+### Pudding
+
+Ingredients:
+- 2 cups milk
+- ½ cup white sugar
+- 3 tablespoons cornstarch
+- ¼ teaspoon salt
+- 1 teaspoon vanilla extract
+- 1 tablespoon butter
+
+Instructions:
+1. Heat milk in a medium saucepan over medium heat until bubbles form at the edges.
+2. Mix sugar, cornstarch, and salt together in a small bowl.
+3. Add sugar, cornstarch, and salt mixture to hot milk, a little at a time, stirring until thick enough to coat the back of the spoon.
+4. Remove saucepan from heat, and stir in vanilla and butter.
+5. Spoon pudding evenly into 5 serving dishes. For best results, chill pudding in the refrigerator before serving.
+
