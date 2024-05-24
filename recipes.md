@@ -1,4 +1,4 @@
-# My Recipe Book
+# My Recipe Book- Jiwen Zhang
 
 ## Contents
 - [Appetizers](#appetizers)
